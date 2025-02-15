@@ -51,7 +51,7 @@ To run this scraper, ensure the following:
    ```
 2. Navigate to the project directory:
    ```sh
-   cd youtube_scrap
+   cd yt_music_scrap
    ```
 3. Add your YouTube API key in a `.env` file:
    ```sh
